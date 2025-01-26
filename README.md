@@ -7,8 +7,7 @@
 
 ## 💫 About Me:
 - 🌱 I’m currently learning **MERN Stack** at **Techrel Technologies.**  
-- 👨‍💻 I’m currently working on **Web Development Projects.**  
-- 📚 I have knowledge of **HTML, CSS, JavaScript, React, Bootstrap, MySQL, C, and Visual Studio Code.**  
+- 👨‍💻 I’m currently working on **Web Development Projects.**   
 - 🚀 Aspiring to become a **Full Stack Developer.**  
 - 📂 Check out my projects on [GitHub](https://github.com/AjayDhokale).  
 - 📫 How to reach me: **ajaydhokale1508@gmail.com**  
